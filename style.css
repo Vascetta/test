@@ -16,3 +16,7 @@ p {
 	color: pink;
 	font-size: 25px;
 }
+p + p {
+	color: royalblue;
+	font-weight: bold;
+}
